@@ -1,5 +1,5 @@
 # Medical-Image-Segmentation-Loss
-collection of loss functions in medical image segmentation
+Collection of loss functions in medical image segmentation
 * Using multi task learning as regularization
 * Dice loss and its variants
 * Cross-Entropy loss and its variants
