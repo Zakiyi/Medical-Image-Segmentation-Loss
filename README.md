@@ -11,7 +11,7 @@ Collection of loss functions in medical image segmentation
 
 **2017**
 1. Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations, *Carole H. Sudre et al, Arxiv.* [pdf](https://arxiv.org/pdf/1707.03237.pdf)
-1. 
+
 **2018**
 1. Densely Deep Supervised Networks with Threshold Loss for Cancer Detection in Automated Breast Ultrasound, *Na Wang et al, MICCAI.* [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00937-3_73.pdf)
 1. A Novel Focal Tversky Loss Function with Improved Attentation Unet for Lesion Segmentation, *Nabila Abraham et al, Arxiv*. [pdf](https://arxiv.org/pdf/1810.07842.pdf)
