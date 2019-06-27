@@ -4,6 +4,8 @@ Collection of loss functions in medical image segmentation
 * Dice loss and its variants
 * Cross-Entropy loss and its variants
 * Tversky loss and its variants
+* Adversarial loss
+* Auto-encoder loss
 * Micellaneous: Overlapping loss, Threshold map loss
 
 **2016**
